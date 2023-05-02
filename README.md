@@ -6,7 +6,7 @@ I currently work at the University of Central Florida as a postdoctoral research
 
 I also have a strong interest in ethics and social epistemology as they relate to computational research and development, which led me to complete extensive graduate coursework on these topics and also informed my dissertation research examining diversity and equity in free/libre and open source sofware project ecosystems. 
 
-If any of the above topics are of interest to you, please feel free to contact me about potential collaborations and research ideas.
+If any of the above topics are of interest to you, please feel free to contact me (onewton at sigsoft dot org) about potential collaborations and research ideas.
 
 <!--
 **small0live/small0live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
