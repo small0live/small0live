@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I primarily use this account for independent and collaborative research projects, but you'll also find a couple of grad school projects here. 
 
-I currently work at the University of Central Florida as a postdoctoral scholar. My research spans cognitive science, organizational science, computational science, complexity science, and data science. I'm particularly interested in modeling human and technical aspects of collaboration in knowledge work domains that produce technological innovations. For example, in the Cognitive Sciences Lab @ UCF, I'm leading a project examining individual and group factors that influence collective learning in scientific software teams. 
+I currently work at the University of Central Florida as a postdoctoral scholar. My research spans cognitive science, organizational science, computational science, complexity science, and data science. I'm particularly interested in modeling human and technical aspects of collaboration in knowledge work domains that produce technological innovations. For example, in the Cognitive Sciences Lab @ UCF, I'm leading a project examining individual and group factors that influence collaborative learning in scientific software teams. 
 
 I also have a strong interest in ethics and social epistemology as they relate to computational research and development, which led me to complete extensive graduate coursework on these topics and also informed my dissertation research examining diversity and equity in free/libre and open source software project ecosystems. In this work, I aim to model the relationship between the individual, groups, organizations, and society in the context of collective knowledge production. 
 
