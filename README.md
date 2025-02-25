@@ -1,6 +1,6 @@
 ### Hi, I'm Olivia. 
 
-Welcome to my GitHub profile. I primarily use this account for independent and collaborative research projects, but you'll also find a couple of grad school projects here. 
+Welcome to my GitHub profile. I primarily use this account for research projects and teaching materials. 
 
 My research spans cognitive, social, and computational sciences. I'm particularly interested in modeling human and technical aspects of collaboration in knowledge work domains that produce technological innovations. Currently, I work with my collaborators to understand and enhance team-basesd scientific computing.
 
