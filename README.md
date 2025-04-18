@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I primarily use this account for research projects and teaching materials. 
 
-My research spans the social and computational sciences. I'm particularly interested in modeling human and technical aspects of collaboration in knowledge work domains that produce technological innovations. Currently, I work with my collaborators to understand and enhance teamwork and software in scientific computing.
+My research spans the social and computational sciences. I'm interested in modeling human and technical aspects of collaboration in knowledge work domains that produce technological innovations. Currently, I work with my collaborators to understand and enhance teamwork and software in scientific computing.
 
 Feel free to contact me (onewton at sigsoft dot org) about potential collaborations.
 
